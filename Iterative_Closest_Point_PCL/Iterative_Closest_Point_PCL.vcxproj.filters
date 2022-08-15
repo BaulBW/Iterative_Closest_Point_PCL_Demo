@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0b59c801-affd-4b82-a2d8-94b08ba38212}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source FIles">
+      <UniqueIdentifier>{f0aaf6e4-644f-4eae-b911-25170dc48bbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{2f933246-1b3e-4755-96ef-d1f77b5638c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source FIles</Filter>
+    </ClCompile>
+    <ClCompile Include="icp_sample.cpp">
+      <Filter>Source FIles</Filter>
+    </ClCompile>
+    <ClCompile Include="icp_test.cpp">
+      <Filter>Source FIles</Filter>
+    </ClCompile>
+    <ClCompile Include="icp_nl_sample.cpp">
+      <Filter>Source FIles</Filter>
+    </ClCompile>
+    <ClCompile Include="ICP_monkey.cpp">
+      <Filter>Source FIles</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
